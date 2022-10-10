@@ -54,19 +54,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
+global.vcardowner = ['919962331389'] //ur owner number
+global.ownername = "Venkatraj" //ur owner name
+global.ytname = "YT: Venkatraj " //ur yt chanel name
+global.socialm = "GitHub: iVenkatraj" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['94714188730'] //ur number 
+global.owner = ['919962331389'] //ur number 
 global.ownertag = '919962331389' //ur tag number
 global.botname = 'Sona Bot' //ur bot name
 global.linkz = "http://venkatraj.com" //your theme url which will be displayed on whatsapp
 global.websitex = "http://venkatraj.com" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
+global.botscript = 'https://github.com/ivenkatraj/java' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sona Bot" //ur sticker watermark packname
